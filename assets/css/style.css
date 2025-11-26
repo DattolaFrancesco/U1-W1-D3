@@ -18,7 +18,7 @@ header span {
   font-weight: 600;
 }
 .container {
-  width: 600px;
+  width: 800px;
   margin-inline: auto;
   margin-top: 3em;
 }
@@ -29,7 +29,7 @@ header span {
   text-align: left;
 }
 #video {
-  width: 600px;
+  width: 800px;
   border-radius: 1em;
 }
 #footerImg {
