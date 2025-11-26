@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Kedebideri:wght@400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header {
+  color: #276865;
+  text-align: center;
+}
+footer a {
+  color: #349292;
+}
+
+header span {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+#container {
+  width: 600px;
+  margin-inline: auto;
+  margin-top: 3em;
+}
+#topArticle {
+  text-align: center;
+}
+#focacciaD {
+  text-align: left;
+}
+#video {
+  width: 600px;
+  border-radius: 1em;
+}
+#footerImg {
+  color: rgb(175, 175, 175);
+}
+#headerP {
+  background-color: #fdfbf1;
+  border-top: 2px solid #fee7ad;
+  padding-block: 15px;
+}
+#feature {
+  border-left: 2px solid #ffe39f;
+  padding-left: 1em;
+}
+#diversoLi {
+  list-style: none;
+}
+#feature p {
+  color: #bc5a2d;
+  text-transform: uppercase;
+}
+#feature p a {
+  text-transform: none;
+  color: #349292;
+}
+#ingredients p {
+  font-size: 1.5em;
+  margin-top: 2em;
+  padding-bottom: 1em;
+  border-bottom: 3px solid #e1f9f8;
+}
+#ingredients h4 {
+  margin-top: 2em;
+}
+#ingredients li {
+  margin-top: 0.8em;
+}
+#method p {
+  font-size: 1.5em;
+  margin-top: 2em;
+  padding-bottom: 1em;
+  border-bottom: 3px solid #e1f9f8;
+}
