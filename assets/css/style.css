@@ -47,13 +47,12 @@ header span {
 #diversoLi {
   list-style: none;
 }
+footer.container {
+  margin-top: 0;
+}
 #feature p {
   color: #bc5a2d;
   text-transform: uppercase;
-}
-#feature p a {
-  text-transform: none;
-  color: #349292;
 }
 #ingredients p {
   font-size: 1.5em;
@@ -73,6 +72,7 @@ header span {
   padding-bottom: 1em;
   border-bottom: 3px solid #e1f9f8;
 }
-footer.container {
-  margin-top: 0;
+#feature p a {
+  text-transform: none;
+  color: #349292;
 }
