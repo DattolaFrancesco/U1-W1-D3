@@ -17,7 +17,7 @@ header span {
   text-transform: uppercase;
   font-weight: 600;
 }
-#container {
+.container {
   width: 600px;
   margin-inline: auto;
   margin-top: 3em;
@@ -72,4 +72,7 @@ header span {
   margin-top: 2em;
   padding-bottom: 1em;
   border-bottom: 3px solid #e1f9f8;
+}
+footer.container {
+  margin-top: 0;
 }
